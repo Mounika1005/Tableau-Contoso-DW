@@ -7,6 +7,7 @@ Create a Tableau Worksheet (Worksheet 1) with Text Table Visualization based on 
 * Calculate Stock to Sales Ratio and create a new worksheet with line graph visualization 
 * Show variation in stock to sales ratio over different months of 2009 across different products categories
 * Identify any deviations and use the Drill Down Roll Up operations to identify causes of deviations
+* Create a Dashboard w.r.t product categories & sales across cities
 
 # Hints and Calculations
 FactInventory Joins:
@@ -25,7 +26,11 @@ Calculation:
 * Use formula SUM([Inventory on Last Day of Period])/SUM([Sales Quantity]) for Stock Sales Ratio
 
 # Repository Content:
-* Tableau Worksheets
-* Screenshots Folder with the results obtained
+* Tableau file for Contoso
+* Tableau file for Dashboard
+* Data Source
+* Word files for respective objectives with explanations
+* Screenshots of the results obtained
+
 
 
